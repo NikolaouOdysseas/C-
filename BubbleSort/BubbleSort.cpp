@@ -1,3 +1,5 @@
+//    O(n^2)
+
 #include <iostream>
 
 void BubbleSort(int array[], int size);
